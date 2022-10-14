@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -g CMakeFiles/chip8emulator.dir/src/main.cpp.o CMakeFiles/chip8emulator.dir/src/Chip8/Chip8Vm.cpp.o CMakeFiles/chip8emulator.dir/src/Peripherals/Display.cpp.o CMakeFiles/chip8emulator.dir/src/Peripherals/Input.cpp.o CMakeFiles/chip8emulator.dir/src/Emulator.cpp.o -o chip8emulator  /usr/lib/libSDL2main.a /usr/lib/libSDL2-2.0.so.0.22.0 

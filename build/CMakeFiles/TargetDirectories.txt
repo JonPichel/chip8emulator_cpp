@@ -1,0 +1,3 @@
+/home/jonathanpc/Programming/C++/chip8emulator/build/CMakeFiles/chip8emulator.dir
+/home/jonathanpc/Programming/C++/chip8emulator/build/CMakeFiles/edit_cache.dir
+/home/jonathanpc/Programming/C++/chip8emulator/build/CMakeFiles/rebuild_cache.dir
